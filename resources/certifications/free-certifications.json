@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Free Certification Courses for English Teachers",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-08",
+    "researchStatus": "Verified",
+    "description": "Curated collection of official free online certification courses for English teachers in the AI era."
+  },
+  "categories": [
+    {
+      "id": "english-teaching",
+      "name": "English Teaching",
+      "description": "ELT, ESL, EFL, TESOL, TEFL and classroom pedagogy.",
+      "courses": [
+        {
+          "id": "british-council-communicative-tasks",
+          "rating": 5,
+          "featured": true,
+          "courseName": "Communicative Tasks",
+          "provider": {
+            "name": "British Council",
+            "country": "United Kingdom",
+            "type": "Educational Organization"
+          },
+          "category": [
+            "ELT",
+            "Speaking",
+            "Communicative Language Teaching"
+          ],
+          "officialUrl": "https://www.teachingenglish.org.uk/training/courses/teachingenglish-communicative-tasks",
+          "courseStatus": "Active",
+          "certificate": {
+            "available": true,
+            "type": "Certificate of Completion",
+            "free": true,
+            "certificateCost": 0,
+            "notes": ""
+          },
+          "pricing": {
+            "enrollmentCost": 0,
+            "currency": "USD"
+          },
+          "duration": {
+            "hours": 12,
+            "weeks": null,
+            "selfPaced": true,
+            "instructorLed": false
+          },
+          "difficulty": "Beginner",
+          "language": "English",
+          "subtitles": [
+            "English"
+          ],
+          "lastUpdated": "Not publicly specified",
+          "prerequisites": [],
+          "skills": [
+            "Communicative Teaching",
+            "Lesson Planning",
+            "Speaking Activities",
+            "Task-Based Learning"
+          ],
+          "learningOutcomes": [
+            "Design communicative lessons",
+            "Increase student interaction",
+            "Build speaking confidence"
+          ],
+          "whoShouldTake": [
+            "English Teachers",
+            "ESL Teachers",
+            "EFL Teachers",
+            "Student Teachers"
+          ],
+          "careerBenefits": [
+            "Professional Development",
+            "Teaching Portfolio",
+            "CPD Hours"
+          ],
+          "employerRecognition": "High",
+          "cpdValue": "Excellent",
+          "pros": [
+            "Official British Council",
+            "High quality",
+            "Free certificate",
+            "Self paced"
+          ],
+          "cons": [
+            "Focused only on communicative teaching"
+          ],
+          "importantNotes": [
+            "Requires TeachingEnglish account"
+          ],
+          "verification": {
+            "verified": true,
+            "officialSource": true,
+            "lastChecked": "2026-07-08"
+          }
+        }
+      ]
+    }
+  ],
+  "rankings": {
+    "topOverall": [
+      "british-council-communicative-tasks",
+      "openlearn-learning-to-teach",
+      "alison-diploma-teaching-skills"
+    ],
+    "topTeaching": [],
+    "topAI": [],
+    "topTechnology": [],
+    "topProfessionalDevelopment": [],
+    "fastestUnder5Hours": [],
+    "bestBeginner": [],
+    "bestAdvanced": [],
+    "bestUniversity": [],
+    "bestGovernmentBacked": [],
+    "bestIndustryRecognized": [],
+    "hiddenGems": []
+  }
+}

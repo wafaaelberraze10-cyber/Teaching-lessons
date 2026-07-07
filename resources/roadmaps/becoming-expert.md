@@ -12,7 +12,8 @@ This roadmap details career pathways for early-career teachers seeking to become
    * [Phase 1: The Master Teacher (Years 3–5)](#phase-1-the-master-teacher-years-35)
    * [Phase 2: The EdTech & AI Specialist (Years 5–8)](#phase-2-the-edtech--ai-specialist-years-58)
    * [Phase 3: The Educational Leader (Years 8+)](#phase-3-the-educational-leader-years-8)
-3. [Transitioning to Instructional Design](#transitioning-to-instructional-design)
+3. [Global Career Development & Market Navigation](#global-career-development--market-navigation)
+4. [Transitioning to Instructional Design](#transitioning-to-instructional-design)
 
 ---
 
@@ -49,6 +50,24 @@ This roadmap details career pathways for early-career teachers seeking to become
 * **Key Actions:**
   - Complete an M.Ed or Ph.D. in Educational Leadership, Curriculum and Instruction, or Instructional Design.
   - Apply for Assistant Principal, Director of Curriculum, or Academic Director positions.
+
+---
+
+## Global Career Development & Market Navigation
+
+### 1. Advanced Portfolio Building
+Move beyond a static CV/resume. Maintain active digital portfolios showcasing:
+* High-quality recorded micro-teaching videos.
+* Custom-designed curriculum units and digital lesson libraries.
+* Documented prompt engineering guides and classroom AI policies.
+
+### 2. Publishing & Academic Presentation
+* Submit classroom action-research findings to TESOL/IATEFL international conferences.
+* Write articles for respected practitioner magazines (e.g., *English Teaching Professional*, *Modern English Teacher*).
+
+### 3. Navigating International Markets
+* Leverage premium qualifications (CELTA/DELTA/MA TESOL) to access highly competitive, regulated employment markets (e.g., UAE, Japan, South Korea, Western Europe).
+* Understand local state licensing requirements and reciprocity agreements for international school employment.
 
 ---
 

@@ -18,10 +18,10 @@ Continuous professional development (CPD) keeps educators at the forefront of pe
 
 ### 1. Microsoft Certified Educator (MCE)
 * **Provider:** Microsoft Learn
-* **Duration:** ~15–20 hours of self-paced study.
+* **Duration:** ~20 hours of self-paced study.
 * **Certificate:** Yes (free exam voucher often provided through school systems, training path is 100% free).
 * **Difficulty:** Intermediate
-* **Skills Learned:** 21st Century Learning Design (21CLD), incorporating collaboration, real-world problem solving, and ICT integration.
+* **Skills Learned:** Integrating technology with the 21st Century Learning Design (21CLD) framework incorporating collaboration, real-world problem solving, and ICT integration.
 * **Who should take it:** All classroom teachers seeking to validate general EdTech competency.
 * **Link:** [Microsoft Learn - MCE Path](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-certified-educator/)
 
@@ -38,7 +38,16 @@ Continuous professional development (CPD) keeps educators at the forefront of pe
 
 ## AI and EdTech Specializations
 
-### 1. OpenAI for K-12 Educators Course
+### 1. Google AI Essentials
+* **Provider:** Google / Coursera
+* **Duration:** 8-10 Hours.
+* **Certificate:** Yes (Financial aid available; course audit is free).
+* **Difficulty:** Beginner
+* **Skills Learned:** Baseline AI literacy, prompt engineering, and responsible AI usage for workplace productivity.
+* **Who should take it:** General educators and professionals starting with AI.
+* **Link:** [Coursera - Google AI Essentials](https://www.coursera.org/specializations/ai-essentials-google)
+
+### 2. OpenAI for K-12 Educators Course
 * **Provider:** OpenAI / Canvas
 * **Duration:** ~2 hours.
 * **Certificate:** Yes
@@ -47,7 +56,7 @@ Continuous professional development (CPD) keeps educators at the forefront of pe
 * **Who should take it:** Teachers starting to integrate generative AI in their daily planning.
 * **Link:** [OpenAI Education Portal](https://openai.com/education)
 
-### 2. Generative AI for Everyone
+### 3. Generative AI for Everyone
 * **Provider:** DeepLearning.AI via Coursera (Audit option)
 * **Duration:** ~6 hours.
 * **Certificate:** Yes (Free audit allows viewing all lectures; certificate requires financial aid approval or payment).
@@ -56,7 +65,7 @@ Continuous professional development (CPD) keeps educators at the forefront of pe
 * **Who should take it:** Teachers desiring a solid, non-technical foundation of how AI works.
 * **Link:** [Coursera - DeepLearning.AI](https://www.coursera.org/learn/generative-ai-for-everyone)
 
-### 3. UNESCO AI Competency Framework for Teachers
+### 4. UNESCO AI Competency Framework for Teachers
 * **Provider:** UNESCO
 * **Duration:** Variable.
 * **Certificate:** Varies by regional portal.
@@ -69,16 +78,25 @@ Continuous professional development (CPD) keeps educators at the forefront of pe
 
 ## Language Pedagogy & Classroom Certifications
 
-### 1. British Council Online Courses
-* **Provider:** British Council (via FutureLearn or direct portals)
-* **Duration:** ~2–4 weeks per course.
-* **Certificate:** Free audit (certificate upgrade paid, but frequent free scholarship runs occur).
+### 1. Teaching English: Communicative Tasks
+* **Provider:** British Council
+* **Duration:** 4-6 Weeks.
+* **Certificate:** Yes (Free study pathways; paid certificates or scholarship options).
 * **Difficulty:** Intermediate
-* **Skills Learned:** Teaching English to young learners, classroom language management, teaching grammar in communicative contexts.
-* **Who should take it:** ESL, EFL, and English student teachers.
-* **Link:** [British Council Teach English](https://www.britishcouncil.org)
+* **Skills Learned:** Designing meaningful, communicative tasks that promote learner autonomy and purposeful language use.
+* **Who should take it:** ESL/EFL teachers in training.
+* **Link:** [British Council Teach English](https://www.teachingenglish.org.uk/training)
 
-### 2. OpenLearn Education Courses
+### 2. Teaching English: Linguistic Frameworks
+* **Provider:** British Council
+* **Duration:** 4-6 Weeks.
+* **Certificate:** Yes
+* **Difficulty:** Intermediate
+* **Skills Learned:** Understanding functional language, grammar presentation through analysis, and reflection.
+* **Who should take it:** ESL/EFL teachers.
+* **Link:** [British Council Teach English](https://www.teachingenglish.org.uk/training)
+
+### 3. OpenLearn Education Courses
 * **Provider:** The Open University (UK)
 * **Duration:** ~8–24 hours per course.
 * **Certificate:** Yes (Free digital badge and certificate of completion).

@@ -28,19 +28,20 @@ Joining professional networks helps teachers share materials, seek career advice
 
 ## Professional Teacher Organizations
 
-### 1. NCTE (National Council of Teachers of English)
+### 1. TESOL International Association
+* **Who it's for:** ESL, EFL, and bilingual educators.
+* **Benefits:** A massive global network, dedicated Special Interest Groups (such as CALL - Computer Assisted Language Learning), research grants, job boards, and academic journals.
+* **Link:** [https://www.tesol.org](https://www.tesol.org)
+
+### 2. IATEFL (International Association of Teachers of English as a Foreign Language)
+* **Who it's for:** UK and globally based EFL teachers.
+* **Benefits:** UK-based with massive global reach, hosting 16 distinct Special Interest Groups (SIGs), monthly professional webinars, and practitioner publications.
+* **Link:** [https://www.iatefl.org](https://www.iatefl.org)
+
+### 3. NCTE (National Council of Teachers of English)
 * **Who it's for:** ELA teachers and professors.
 * **Benefits:** Publications, conferences, curriculum policy advocacy.
 * **Link:** [https://ncte.org](https://ncte.org)
-
-### 2. TESOL International Association
-* **Who it's for:** ESL, EFL, and bilingual educators.
-* **Benefits:** Global job board, academic journals, annual conferences.
-* **Link:** [https://www.tesol.org](https://www.tesol.org)
-
-### 3. IATEFL (International Association of Teachers of English as a Foreign Language)
-* **Who it's for:** UK and globally based EFL teachers.
-* **Link:** [https://www.iatefl.org](https://www.iatefl.org)
 
 ---
 

@@ -44,6 +44,66 @@ This index acts as a specialized directory of artificial intelligence tools that
 
 ## Specialized Classroom AI Tools
 
+### Inline Assistants & General Toolkits
+
+#### 1. Brisk Teaching
+* **Why it matters:** A Chrome Extension/Edge Add-on that brings teaching tools directly to where educators work within Google Workspace.
+* **Who it's for:** K-12 and Higher Ed teachers.
+* **Pros:** Seamless integration; highly privacy-compliant (FERPA/COPPA).
+* **Cons:** Restricted primarily to Google/Microsoft ecosystems.
+* **Cost:** Freemium (Free for educators; Pro $9.99/month).
+* **Link:** [https://www.briskteaching.com](https://briskteaching.com)
+
+#### 2. MagicSchool AI
+* **Why it matters:** A centralized hub offering over 80 discrete tools for tasks ranging from IEP drafting to rubric creation.
+* **Who it's for:** K-12 Educators & Administrators.
+* **Pros:** Massive breadth of tools; includes a safe student-facing chatbot ('Raina').
+* **Cons:** Outputs can be formulaic; acts as a disconnected silo from official SIS/LMS platforms.
+* **Cost:** Freemium (Plus $8.33/month).
+* **Link:** [https://www.magicschool.ai](https://www.magicschool.ai)
+
+#### 3. EasyClass AI
+* **Why it matters:** An integrated platform offering over 60 tools combining reading differentiation, lesson planning, and AI-assisted grading workflows.
+* **Who it's for:** General Educators.
+* **Pros:** Robust multi-tool integration; highly cost-effective premium tier.
+* **Cons:** Smaller community base; lacks deep administrative oversight features.
+* **Cost:** Freemium (Pro $8.99/month).
+* **Link:** [https://easyclass.ai](https://easyclass.ai)
+
+---
+
+### ESL & Language Content Generators
+
+#### 1. Twee
+* **Why it matters:** An AI tool explicitly calibrated for EFL/ESL educators to generate CEFR-aligned dialogues, gap-fills, and video transcripts.
+* **Who it's for:** ESL/EFL Teachers and Trainers.
+* **Pros:** Highly accurate CEFR leveling; excellent for YouTube video materials.
+* **Cons:** The number of complex activities generated per month is limited on the free tier.
+* **Cost:** Freemium (Premium $19/month).
+* **Link:** [https://twee.com](https://twee.com)
+
+#### 2. Mizou
+* **Why it matters:** A platform enabling educators to build custom, safe AI chatbots (Multimodal AI Agents) tailored with specific personas and knowledge files.
+* **Who it's for:** Language Teachers, Instructional Designers.
+* **Pros:** Protects student data; allows uploading of advanced reasoning models for low-anxiety speaking practice.
+* **Cons:** Free version limits daily student interactions and restricts access to advanced models.
+* **Cost:** Freemium (Pro $12.90/month).
+* **Link:** [https://mizou.com](https://mizou.com)
+
+---
+
+### AI Grading & Rubric Evaluation
+
+#### 1. Edusage AI
+* **Why it matters:** A specialized tool focused purely on executing end-to-end AI grading workflows based on customized rubrics.
+* **Who it's for:** Secondary and Tertiary Educators.
+* **Pros:** Superior rubric-addressed feedback generation.
+* **Cons:** Not a general-purpose tool; lacks lesson planning or material generation features.
+* **Cost:** Paid (Tiered pricing).
+* **Link:** [https://edusageai.com](https://edusageai.com)
+
+---
+
 ### Quiz & Assessment Generators
 
 #### 1. Quizizz AI
@@ -78,6 +138,14 @@ This index acts as a specialized directory of artificial intelligence tools that
 #### 2. Anki
 * **Why it matters:** Open-source spaced repetition flashcard system. Teachers use AI to generate formatted text lists to import into Anki for permanent vocabulary acquisition.
 * **Link:** [https://apps.ankiweb.net](https://apps.ankiweb.net)
+
+#### 3. Wordwall
+* **Why it matters:** A versatile platform for creating interactive digital activities like matching games, quizzes, and word searches.
+* **Who it's for:** Primary and Secondary Teachers.
+* **Pros:** Simple interface; excellent templates.
+* **Cons:** Advanced features and detailed student tracking require paid subscriptions.
+* **Cost:** Freemium.
+* **Link:** [https://wordwall.net](https://wordwall.net)
 
 ---
 

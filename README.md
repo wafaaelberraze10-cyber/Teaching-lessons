@@ -24,7 +24,8 @@ Teaching-lessons/
     │   └── rubrics.md, curriculum.md, differentiation.md, active-learning.md...
     ├── certifications/                 ◄── Professional Development Registry
     │   ├── free.md                     ◄── Free Badges (Google, Microsoft, OpenAI)
-    │   └── paid.md                     ◄── Professional Credentials (CELTA, DELTA)
+    │   ├── paid.md                     ◄── Professional Credentials (CELTA, DELTA)
+    │   └── free-certifications.json    ◄── Raw dataset of verified free courses
     ├── roadmaps/                       ◄── Career Progression Pathways
     │   ├── student-teacher.md, becoming-expert.md, ai-roadmap.md
     ├── productivity/                   ◄── Digital Workspace Configurations
